@@ -1,0 +1,7 @@
+{
+  "name": "ResizeFast.AI",
+  "description": "A privacy-first, 100% client-side toolset for image resizing, PDF manipulation, and various utilities. No data ever leaves your browser.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
